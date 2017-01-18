@@ -28,7 +28,7 @@
 
   When your machine restarts you will only have the command line to work with.
 
-  *Source: http://www.howtogeek.com/111967/how-to-turn-the-gui-off-and-on-in-windows-server-2012/*
+  >*Source: http://www.howtogeek.com/111967/how-to-turn-the-gui-off-and-on-in-windows-server-2012/*
 
 - **GUI On with Powershell**
 
@@ -54,7 +54,7 @@
 
   When your server reboots you will have the GUI back.
 
-  *Source: http://www.howtogeek.com/111967/how-to-turn-the-gui-off-and-on-in-windows-server-2012/*
+  >*Source: http://www.howtogeek.com/111967/how-to-turn-the-gui-off-and-on-in-windows-server-2012/*
 
 
 ### Configure local storage
