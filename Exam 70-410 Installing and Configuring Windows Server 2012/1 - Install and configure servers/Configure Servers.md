@@ -110,7 +110,9 @@ Shutdown –r -t 0
 
 When your server reboots you will have the GUI back.
 
-> **Sources:**
-> - https://www.microsoft.com/en-us/licensing/product-licensing/windows-server-2012-r2.aspx*
-> - http://www.howtogeek.com/111967/how-to-turn-the-gui-off-and-on-in-windows-server-2012/*
+----
+
+**Sources:**
+- https://www.microsoft.com/en-us/licensing/product-licensing/windows-server-2012-r2.aspx*
+- http://www.howtogeek.com/111967/how-to-turn-the-gui-off-and-on-in-windows-server-2012/*
 
