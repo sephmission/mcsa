@@ -20,7 +20,7 @@ As of January 2014, this exam includes content covering Windows Server 2012 R2.
 - Configure servers for remote management
   - Configure WinRM, configure down-level server management, configure servers for day-to-day management tasks, configure multi-server management, configure Server Core, configure Windows Firewall, manage non-domain joined servers
 
-#### Configure Hyper-V (15-20%)
+### Configure Hyper-V (15-20%)
 
 - Create and configure virtual machine settings
   - Configure dynamic memory, configure smart paging, configure Resource Metering, configure guest integration services, create and configure Generation 1 and 2 virtual machines, configure and use enhanced session mode, configure RemoteFX
