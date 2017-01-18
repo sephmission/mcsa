@@ -1,5 +1,9 @@
 # Configure Servers
 
+## Contents
+- [Windows Server 2012 Limits](#windows-limits)
+- [Server GUI On and Off](#gui)
+
 ## OS Licensing and Server Versioning
 
 ### Server 2012 is not available in 32-bit
@@ -20,7 +24,7 @@
 
 >*Source: https://www.microsoft.com/en-us/licensing/product-licensing/windows-server-2012-r2.aspx*
 
-
+<a name="windows-limits"></a>
 ## Windows Server 2012 Limits
 
 --- | Foundation | Essentials | Standard / Datacenter
@@ -49,7 +53,7 @@ The following items are not strictly required, but are necessary for certain fea
 
 >*Source: https://technet.microsoft.com/en-us/library/dn303418(v=ws.11).aspx*
 
-
+<a name="gui"></a>
 ## GUI ON and OFF
 
 ### GUI Off with Powershell
