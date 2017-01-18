@@ -2,7 +2,7 @@
 
 As of January 2014, this exam includes content covering Windows Server 2012 R2.
 
-#### Install and configure servers (15-20%)
+### Install and configure servers (15-20%)
 
 - Install servers
   - Plan for a server installation, plan for server roles, plan for a server upgrade, install Server Core, optimize resource utilization by using Features on Demand, migrate roles from previous versions of Windows Server
@@ -11,7 +11,7 @@ As of January 2014, this exam includes content covering Windows Server 2012 R2.
 - Configure local storage
   - Design storage spaces, configure basic and dynamic disks, configure master boot record (MBR) and GUID partition table (GPT) disks, manage volumes, create and mount virtual hard disks (VHDs), configure storage pools and disk pools, create storage pools by using disk enclosures
 
-#### Configure server roles and features (15-20%)
+### Configure server roles and features (15-20%)
 
 - Configure file and share access
   - Create and configure shares, configure share permissions, configure offline files, configure NTFS permissions, configure access-based enumeration (ABE), configure Volume Shadow Copy Service (VSS), configure NTFS quotas, create and configure Work Folders
@@ -29,7 +29,7 @@ As of January 2014, this exam includes content covering Windows Server 2012 R2.
 - Create and configure virtual networks
   - Configure Hyper-V virtual switches, optimize network performance, configure MAC addresses; configure network isolation, configure synthetic and legacy virtual network adapters, configure NIC teaming in virtual machines
 
-#### Deploy and configure core network services (15-20%)
+### Deploy and configure core network services (15-20%)
 
 - Configure IPv4 and IPv6 addressing
   - Configure IP address options, configure IPv4 or IPv6 subnetting, configure supernetting, configure interoperability between IPv4 and IPv6, configure Intra-site Automatic Tunnel Addressing Protocol (ISATAP), configure Teredo
@@ -38,7 +38,7 @@ As of January 2014, this exam includes content covering Windows Server 2012 R2.
 - Deploy and configure DNS service
   - Configure Active Directory integration of primary zones, configure forwarders, configure Root Hints, manage DNS cache, create A and PTR resource records
 
-#### Install and administer Active Directory (15-20%)
+### Install and administer Active Directory (15-20%)
 
 - Install domain controllers
   - Add or remove a domain controller from a domain, upgrade a domain controller, install Active Directory Domain Services (AD DS) on a Server Core installation, install a domain controller from Install from Media (IFM), resolve DNS SRV record registration issues, configure a global catalog server, deploy Active Directory infrastructure as a service (IaaS) in Microsoft Azure
@@ -47,7 +47,7 @@ As of January 2014, this exam includes content covering Windows Server 2012 R2.
 - Create and manage Active Directory groups and organizational units (OUs)
   - Configure group nesting; convert groups, including security, distribution, universal, domain local, and domain global; manage group membership using Group Policy; enumerate group membership; delegate the creation and management of Active Directory objects; manage default Active Directory containers; create, copy, configure, and delete groups and OUs
 
-#### Create and manage Group Policy (15-20%)
+### Create and manage Group Policy (15-20%)
 
 - Create Group Policy objects (GPOs)
   - Configure a Central Store, manage starter GPOs, configure GPO links, configure multiple local Group Policies
