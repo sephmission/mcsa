@@ -1,9 +1,9 @@
 # MCSA: Windows Server 2012 Reviewer
 **Reviewer for Microsoft Certified Solutions Associate (MCSA) Certification**
 
-Recently, I've thinking of getting a certification exam on Microsoft for Server Administration and I will make this repo to be a guide/reviewer in my learning process before taking the exam.
+Recently, I've thinking of getting a certification exam on Microsoft for Server Administration and I will make this repo to be a guide/reviewer in **my learning process** before taking the exam.
 
->I suggest that if you will clone/download this reviewer, download [**Typora**](https://typora.io/) to easy browse and read through the markdown files.
+>I suggest that if you will clone/download this reviewer, download [**Typora**](https://typora.io/) to easy browse and reading through the markdown files.
 
 Below are the steps in becoming a Microsoft Certified Solutions Associate (MCSA) but you need first to complete all three (3) exams.
 
@@ -19,7 +19,7 @@ Below are the steps in becoming a Microsoft Certified Solutions Associate (MCSA)
 
 
 ----
-*Sources:*
-- *https://www.microsoft.com/en-us/learning/mcsa-certification.aspx*
-- *https://www.microsoft.com/en-us/learning/mcsa-windows-server-certification.aspx*
+**Sources:**
+https://www.microsoft.com/en-us/learning/mcsa-certification.aspx
+https://www.microsoft.com/en-us/learning/mcsa-windows-server-certification.aspx
 
