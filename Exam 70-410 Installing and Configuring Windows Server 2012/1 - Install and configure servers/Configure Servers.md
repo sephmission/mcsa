@@ -1,26 +1,25 @@
 # Configure Servers
 
-### Licensing for Windows Server 2012 R2
+### OS Licensing and Server Versioning
 
-#### Datacenter
+#### Server 2012 is not available in 32-bit
+- Data Center
+- Standard
+- Essentials (same functionality of standard and web version of Windows Server 2008)
+- Foundations
 
-Datacenter edition is ideal for customers who want to have a highly virtualized private and hybrid cloud environment. As always, it provides access to all the product features and enables unlimited instances of Windows Server with each license, enabling your virtual environment to grow as you do. The licensing for Datacenter edition will continue to be processor plus CAL (Client Access License), with each license covering up to two physical processors on a single server.
+#### Differences in Licensing are exposed by the number of users and physical/virtual instances each support.
 
-#### Standard
+| EDITION    | POSE INSTANCES   | VOSE INSTANCES   |
+| ---------- | ---------------- | ---------------- |
+| Datacenter | 1                | Unlimited        |
+| Standard.  | 1                | 2                |
+| Foundation | 1                | 0                |
+| Essentials | 1 (POSE or VOSE) | 1 (POSE or VOSE) |
 
-Standard edition is ideal for those customers who want to have a physical or lightly virtualized environment. This edition enables you to run up to two virtual instances of Windows Server with each license and provides all the same features as Datacenter edition. The licensing for Standard edition will continue to be processor plus CAL, with each license covering up to two physical processors on a single server, just like Datacenter edition.
-
-#### Essentials
-
-Essentials edition is ideal for small businesses that have up to 25 users and want to have a simpler, pre-configured connection to cloud-based services. This edition enables you to run a single virtual instance of Essentials. The licensing for Essentials will continue to be a server license for a two processor server that does not require CALs.
-
-#### Foundation
-
-Foundation edition is ideal for small businesses that have up to 15 users and want a general purpose server. The licensing for Foundation has not changed; it continues to be a server license for a one-processor server that does not require CALs and is sold only through OEM (original equipment manufacturer).
 
 ----
-
->*Source: https://www.microsoft.com/en-us/licensing/product-licensing/windows-server-2012-r2.aspx*
+*Source: https://www.microsoft.com/en-us/licensing/product-licensing/windows-server-2012-r2.aspx*
 
 
 ### System Requirements
@@ -45,12 +44,12 @@ The following items are not strictly required, but are necessary for certain fea
 - Internet access (fees may apply)
 
 ----
-> *Source: https://technet.microsoft.com/en-us/library/dn303418(v=ws.11).aspx*
+*Source: https://technet.microsoft.com/en-us/library/dn303418(v=ws.11).aspx*
 
 
 ### GUI ON and OFF
 
-#### **GUI Off with Powershell**
+#### GUI Off with Powershell
 
 You can do the same thing as we did in the GUI much quicker with a PowerShell cmdlet. To do so, open Server Manager, click on Tools and launch PowerShell.
 
@@ -74,9 +73,10 @@ Not long after you have  hit the enter key, the removal will begin. When it’s
 
 When your machine restarts you will only have the command line to work with.
 
->*Source: http://www.howtogeek.com/111967/how-to-turn-the-gui-off-and-on-in-windows-server-2012/*
+----
+*Source: http://www.howtogeek.com/111967/how-to-turn-the-gui-off-and-on-in-windows-server-2012/*
 
-#### GUI On with Powershell**
+#### GUI On with Powershell
 
 The first thing we need to do is get into PowerShell, so type PowerShell and hit enter.
 

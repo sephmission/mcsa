@@ -18,9 +18,8 @@ Below are the steps in becoming a Microsoft Certified Solutions Associate (MCSA)
 > You can substitute [Exam 346: Managing Office 365 Identities and Requirements](https://www.microsoft.com/en-us/learning/exam-70-346.aspx), [Exam 409: Server Virtualization with Windows Server Hyper-V and System Center](https://www.microsoft.com/en-us/learning/exam-74-409.aspx), or [Exam 462: Administering Microsoft SQL Server 2012 Databases](https://www.microsoft.com/en-us/learning/exam-70-462.aspx), for Exam 412.
 
 
-
-**Sources:**
-
-- https://www.microsoft.com/en-us/learning/mcsa-certification.aspx
-- https://www.microsoft.com/en-us/learning/mcsa-windows-server-certification.aspx
+----
+*Sources:*
+- *https://www.microsoft.com/en-us/learning/mcsa-certification.aspx*
+- *https://www.microsoft.com/en-us/learning/mcsa-windows-server-certification.aspx*
 
