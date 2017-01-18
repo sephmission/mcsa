@@ -20,6 +20,6 @@ Below are the steps in becoming a Microsoft Certified Solutions Associate (MCSA)
 
 ----
 **Sources:**
-https://www.microsoft.com/en-us/learning/mcsa-certification.aspx
-https://www.microsoft.com/en-us/learning/mcsa-windows-server-certification.aspx
+- https://www.microsoft.com/en-us/learning/mcsa-certification.aspx
+- https://www.microsoft.com/en-us/learning/mcsa-windows-server-certification.aspx
 
