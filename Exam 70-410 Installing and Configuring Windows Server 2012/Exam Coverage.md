@@ -2,6 +2,8 @@
 
 As of January 2014, this exam includes content covering Windows Server 2012 R2.
 
+---
+
 ### Install and configure servers (15-20%)
 
 - Install servers
@@ -58,8 +60,6 @@ As of January 2014, this exam includes content covering Windows Server 2012 R2.
 - Configure Windows Firewall
   - Configure rules for multiple profiles using Group Policy; configure connection security rules; configure Windows Firewall to allow or deny applications, scopes, ports, and users; configure authenticated firewall exceptions; import and export settings
 
+----
 
-
-*Source:*
-
-- *https://www.microsoft.com/en-us/learning/exam-70-410.aspx*
+>*Source: https://www.microsoft.com/en-us/learning/exam-70-410.aspx*

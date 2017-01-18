@@ -18,12 +18,9 @@ Essentials edition is ideal for small businesses that have up to 25 users and wa
 
 Foundation edition is ideal for small businesses that have up to 15 users and want a general purpose server. The licensing for Foundation has not changed; it continues to be a server license for a one-processor server that does not require CALs and is sold only through OEM (original equipment manufacturer).
 
->*Source: https://www.microsoft.com/en-us/licensing/product-licensing/windows-server-2012-r2.aspx*
-
-
-
 ----
 
+>*Source: https://www.microsoft.com/en-us/licensing/product-licensing/windows-server-2012-r2.aspx*
 
 
 ### System Requirements
@@ -47,12 +44,8 @@ The following items are not strictly required, but are necessary for certain fea
 - Keyboard and Microsoft® mouse (or other compatible pointing device)
 - Internet access (fees may apply)
 
-> *Source: https://technet.microsoft.com/en-us/library/dn303418(v=ws.11).aspx*
-
-
-
 ----
-
+> *Source: https://technet.microsoft.com/en-us/library/dn303418(v=ws.11).aspx*
 
 
 ### GUI ON and OFF
