@@ -44,7 +44,7 @@ File Services limits | 1 Standalone DFS root | 1 Standalone DFS root | Unlimited
 <a name"installation-reqs"></a>
 ## Installation Requirements
 
-### Minimum Requirements
+#### Minimum Requirements
 - 1.4 GHz 64-bit processor (no upgrade path from a 32-bit system)
 - 512 MB RAM
 - 32 GB available disk space (considered as the minimum)
@@ -55,11 +55,11 @@ File Services limits | 1 Standalone DFS root | 1 Standalone DFS root | Unlimited
 
 ### Supported Maximums
 
-Component | WINDOWS SERVER 2012 | WINDOWS SERVER 2008 R2
---- | --- | ---
-Logical processors | 640 | 256
-RAM | 4 terabytes | 2 terabytes
-Failover | 63 | 16
+| Component          | WINDOWS SERVER 2012 | WINDOWS SERVER 2008 R2 |
+| ------------------ | ------------------- | ---------------------- |
+| Logical processors | 640                 | 256                    |
+| RAM                | 4 terabytes         | 2 terabytes            |
+| Failover           | 63                  | 16                     |
 
 <a name="gui"></a>
 ## GUI ON and OFF
