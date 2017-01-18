@@ -1,14 +1,14 @@
 # Configure Servers
 
-### OS Licensing and Server Versioning
+## OS Licensing and Server Versioning
 
-#### Server 2012 is not available in 32-bit
+### Server 2012 is not available in 32-bit
 - Data Center
 - Standard
 - Essentials (same functionality of standard and web version of Windows Server 2008)
 - Foundations
 
-#### Differences in Licensing are exposed by the number of users and physical/virtual instances each support.
+### Differences in Licensing are exposed by the number of users and physical/virtual instances each support.
 
 | EDITION    | POSE INSTANCES   | VOSE INSTANCES   |
 | ---------- | ---------------- | ---------------- |
@@ -18,17 +18,21 @@
 | Essentials | 1 (POSE or VOSE) | 1 (POSE or VOSE) |
 
 
-----
-*Source: https://www.microsoft.com/en-us/licensing/product-licensing/windows-server-2012-r2.aspx*
+>*Source: https://www.microsoft.com/en-us/licensing/product-licensing/windows-server-2012-r2.aspx*
 
 
-### System Requirements
+## Windows Server 2012 Limits
 
-| Description | Minimum Requirements     |
-| ----------- | ------------------------ |
-| RAM         | 512MB                    |
-| Processor   | 1.4 GHz 64-bit processor |
-| Disk space  | 32GB                     |
+--- | Foundation | Essentials | Standard / Datacenter
+--- | --- | --- | ---
+Processor Limit | 1 | 2 | 64
+RAM | 32GB | 64GB | 4TB
+Max users | 15 | 25 | Unlimited
+Routing and Remote Access (RRAS) | 50 | 250 | Unlimited
+Active Directory Services | Root only | Root only | Full
+Active Directory Certificate Services | CA Only | CA Only | Full
+Hyper V / Server Core | No | No | Yes
+File Services limits | 1 Standalone DFS root | 1 Standalone DFS root | Unlimited
 
 **Other requirements:**
 
@@ -43,13 +47,12 @@ The following items are not strictly required, but are necessary for certain fea
 - Keyboard and Microsoft® mouse (or other compatible pointing device)
 - Internet access (fees may apply)
 
-----
-*Source: https://technet.microsoft.com/en-us/library/dn303418(v=ws.11).aspx*
+>*Source: https://technet.microsoft.com/en-us/library/dn303418(v=ws.11).aspx*
 
 
-### GUI ON and OFF
+## GUI ON and OFF
 
-#### GUI Off with Powershell
+### GUI Off with Powershell
 
 You can do the same thing as we did in the GUI much quicker with a PowerShell cmdlet. To do so, open Server Manager, click on Tools and launch PowerShell.
 
@@ -73,10 +76,8 @@ Not long after you have  hit the enter key, the removal will begin. When it’s
 
 When your machine restarts you will only have the command line to work with.
 
-----
-*Source: http://www.howtogeek.com/111967/how-to-turn-the-gui-off-and-on-in-windows-server-2012/*
 
-#### GUI On with Powershell
+### GUI On with Powershell
 
 The first thing we need to do is get into PowerShell, so type PowerShell and hit enter.
 
