@@ -1,9 +1,12 @@
 # Configure Servers
 
 ## Contents
+- [OS Licensing and Server Versioning](#licensing)
 - [Windows Server 2012 Limits](#windows-limits)
+- [Installation Requirements](#installation-reqs)
 - [Server GUI On and Off](#gui)
 
+<a name="licensing"></a>
 ## OS Licensing and Server Versioning
 
 ### Server 2012 is not available in 32-bit
@@ -38,20 +41,25 @@ Active Directory Certificate Services | CA Only | CA Only | Full
 Hyper V / Server Core | No | No | Yes
 File Services limits | 1 Standalone DFS root | 1 Standalone DFS root | Unlimited
 
-**Other requirements:**
+<a name"installation-reqs"></a>
+## Installation Requirements
 
-You also must have the following:
+### Minimum Requirements
+- 1.4 GHz 64-bit processor (no upgrade path from a 32-bit system)
+- 512 MB RAM
+- 32 GB available disk space (considered as the minimum)
+- DVD drive (not normally a pre-requisite)
+- Super VGA (1024 x 768) or higher resolution monitor
+- Keyboard and mouse (or other compatible pointing device)
+- Internet access
 
-- Gigabit (10/100/1000baseT) Ethernet adapter
-- DVD drive (if you intend to install the operating system from DVD media)
+### Supported Maximums
 
-The following items are not strictly required, but are necessary for certain features:
-
-- Super VGA (1024 x 768) or higher-resolution monitor
-- Keyboard and Microsoft® mouse (or other compatible pointing device)
-- Internet access (fees may apply)
-
->*Source: https://technet.microsoft.com/en-us/library/dn303418(v=ws.11).aspx*
+Component | WINDOWS SERVER 2012 | WINDOWS SERVER 2008 R2
+--- | --- | ---
+Logical processors | 640 | 256
+RAM | 4 terabytes | 2 terabytes
+Failover | 63 | 16
 
 <a name="gui"></a>
 ## GUI ON and OFF
