@@ -1,4 +1,4 @@
-# Configure Servers
+# Installing And Configuring Servers
 
 ## Contents
 - [OS Licensing and Server Versioning](#licensing)
@@ -38,7 +38,7 @@
 | Hyper V / Server Core                 | No                    | No                    | Yes                   |
 | File Services limits                  | 1 Standalone DFS root | 1 Standalone DFS root | Unlimited             |
 
-<a name"installation-reqs"></a>
+<a name="installation-reqs"></a>
 ## Installation Requirements
 
 #### Minimum Requirements
